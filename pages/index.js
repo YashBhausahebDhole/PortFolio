@@ -125,10 +125,10 @@ export default function Home() {
                 reality.
               </p>
               <h4 className="py-4 text-teal-600">Design Tools I Use</h4>
-              <p className="text-gray-800 py-1">Photoshop</p>
-              <p className="text-gray-800 py-1">Illustrator</p>
-              <p className="text-gray-800 py-1">Figma</p>
-              <p className="text-gray-800 py-1">Indesign</p>
+              <p className="text-gray-800 py-1">React.js</p>
+              <p className="text-gray-800 py-1">Angular</p>
+              <p className="text-gray-800 py-1">Bootstrap</p>
+              <p className="text-gray-800 py-1">Tailwind CSS</p>
             </div>
             <div className="text-center shadow-lg p-10 rounded-xl my-10 dark:bg-white flex-1">
               <Image src={consulting} width={100} height={100} />
@@ -138,10 +138,8 @@ export default function Home() {
                 give you tips and tricks to level it up.
               </p>
               <h4 className="py-4 text-teal-600">Design Tools I Use</h4>
-              <p className="text-gray-800 py-1">Photoshop</p>
-              <p className="text-gray-800 py-1">Illustrator</p>
-              <p className="text-gray-800 py-1">Figma</p>
-              <p className="text-gray-800 py-1">Indesign</p>
+              <p className="text-gray-800 py-1">Just get Connected with me on my SOCIALS mentiods above !!</p>
+              
             </div>
           </div>
         </section>
